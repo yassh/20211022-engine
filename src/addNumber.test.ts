@@ -123,11 +123,11 @@ describe("第一引数が整数が要素の配列", () => {
         describe("第三引数なし", () => {})
         describe("第三引数がprepend", () => {})
     })
-    describe("第二引数がMIN_VALUE", () => {
+    describe("第二引数がMAX_SAFE_INTEGER", () => {
         describe("第三引数なし", () => {})
         describe("第三引数がprepend", () => {})
     })
-    describe("第二引数がMIN_VALUE", () => {
+    describe("第二引数がMIN_SAFE_INTEGER", () => {
         describe("第三引数なし", () => {})
         describe("第三引数がprepend", () => {})
     })
@@ -145,11 +145,11 @@ describe("第一引数が浮動小数点数が要素の配列", () => {
         describe("第三引数なし", () => {})
         describe("第三引数がprepend", () => {})
     })
-    describe("第二引数がMIN_VALUE", () => {
+    describe("第二引数がMAX_SAFE_INTEGER", () => {
         describe("第三引数なし", () => {})
         describe("第三引数がprepend", () => {})
     })
-    describe("第二引数がMIN_VALUE", () => {
+    describe("第二引数がMIN_SAFE_INTEGER", () => {
         describe("第三引数なし", () => {})
         describe("第三引数がprepend", () => {})
     })
